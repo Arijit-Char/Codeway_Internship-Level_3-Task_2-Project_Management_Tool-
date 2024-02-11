@@ -1,4 +1,4 @@
-Codeway Internship Level 3 - Task 2: Product Management Tool
+**Codeway Internship Level 3 - Task 2: Product Management Tool**
 This Product Management Tool is developed as part of the Codeway Internship Level 3 Task 2. It provides a platform for managing products efficiently using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
 Description
